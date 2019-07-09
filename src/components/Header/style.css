@@ -1,0 +1,42 @@
+h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#score-div {
+  padding: 5px 10px;
+  background: #777;
+  border-radius: 5px;
+  border: 1px black solid;
+  margin-right: 5px;
+}
+
+#score-display {
+  background: #ee5530;
+  color: white;
+  font-weight: bold;
+  padding: 5px 7px;
+  border-radius: 3px;
+  border: 2px solid white;
+}
+
+#high-score-div {
+  padding: 5px 10px;
+  background: #777;
+  border-radius: 5px;
+  border: 1px black solid;
+  margin-left: 5px;
+}
+
+#high-score-display {
+  background: blue;
+  color: white;
+  font-weight: bold;
+  padding: 5px 7px;
+  border-radius: 3px;
+  border: 2px solid white;
+}
+
+.container {
+  margin-bottom: 30px;
+}
